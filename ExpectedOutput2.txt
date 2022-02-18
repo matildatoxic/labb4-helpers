@@ -1,14 +1,12 @@
-Title    Full name                                                                                                                                                ModifiedDate           
--------- -------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------
-Ms.      Esther K. Valle                                                                                                                                          2006-07-01 00:00:00.000
-Ms.      Esther K. Valle                                                                                                                                          2006-07-01 00:00:00.000
-Ms.      Janice K. Hows                                                                                                                                           2006-08-01 00:00:00.000
-Ms.      Janice K. Hows                                                                                                                                           2006-08-01 00:00:00.000
-Ms.      Katherine K. Swan                                                                                                                                        2007-09-01 00:00:00.000
-Ms.      Katherine K. Swan                                                                                                                                        2007-09-01 00:00:00.000
-Ms.      Mary K. Browning                                                                                                                                         2006-08-01 00:00:00.000
-Ms.      Mary K. Browning                                                                                                                                         2006-08-01 00:00:00.000
-Mr.      Ronald K. Heymsfield                                                                                                                                     2006-08-01 00:00:00.000
-Mr.      Ronald K. Heymsfield                                                                                                                                     2006-08-01 00:00:00.000
+Ms. Esther K. Valle 2006-07-01 00:00:00.000
+Ms. Esther K. Valle 2006-07-01 00:00:00.000
+Ms. Janice K. Hows 2006-08-01 00:00:00.000
+Ms. Janice K. Hows 2006-08-01 00:00:00.000
+Ms. Katherine K. Swan 2007-09-01 00:00:00.000
+Ms. Katherine K. Swan 2007-09-01 00:00:00.000
+Ms. Mary K. Browning 2006-08-01 00:00:00.000
+Ms. Mary K. Browning 2006-08-01 00:00:00.000
+Mr. Ronald K. Heymsfield 2006-08-01 00:00:00.000
+Mr. Ronald K. Heymsfield 2006-08-01 00:00:00.000
 
 (10 rows affected)

@@ -1,24 +1,22 @@
-Name                                               ProductNumber             Color          
--------------------------------------------------- ------------------------- ---------------
-Full-Finger Gloves, L                              GL-F110-L                 Black          
-Full-Finger Gloves, M                              GL-F110-M                 Black          
-Full-Finger Gloves, S                              GL-F110-S                 Black          
-Half-Finger Gloves, L                              GL-H102-L                 Black          
-Half-Finger Gloves, M                              GL-H102-M                 Black          
-Half-Finger Gloves, S                              GL-H102-S                 Black          
-HL Crankset                                        CS-9183                   Black          
-HL Mountain Frame - Black, 38                      FR-M94B-38                Black          
-HL Mountain Frame - Black, 42                      FR-M94B-42                Black          
-HL Mountain Frame - Black, 44                      FR-M94B-44                Black          
-HL Mountain Frame - Black, 46                      FR-M94B-46                Black          
-HL Mountain Frame - Black, 48                      FR-M94B-48                Black          
-HL Mountain Front Wheel                            FW-M928                   Black          
-HL Mountain Rear Wheel                             RW-M928                   Black          
-HL Road Frame - Black, 44                          FR-R92B-44                Black          
-HL Road Frame - Black, 48                          FR-R92B-48                Black          
-HL Road Frame - Black, 52                          FR-R92B-52                Black          
-HL Road Frame - Black, 58                          FR-R92B-58                Black          
-HL Road Frame - Black, 62                          FR-R92B-62                Black          
-HL Road Frame - Red, 44                            FR-R92R-44                Red            
+Full-Finger Gloves, L GL-F110-L Black
+Full-Finger Gloves, M GL-F110-M Black
+Full-Finger Gloves, S GL-F110-S Black
+Half-Finger Gloves, L GL-H102-L Black
+Half-Finger Gloves, M GL-H102-M Black
+Half-Finger Gloves, S GL-H102-S Black
+HL Crankset CS-9183 Black
+HL Mountain Frame - Black, 38 FR-M94B-38 Black
+HL Mountain Frame - Black, 42 FR-M94B-42 Black
+HL Mountain Frame - Black, 44 FR-M94B-44 Black
+HL Mountain Frame - Black, 46 FR-M94B-46 Black
+HL Mountain Frame - Black, 48 FR-M94B-48 Black
+HL Mountain Front Wheel FW-M928 Black
+HL Mountain Rear Wheel RW-M928 Black
+HL Road Frame - Black, 44 FR-R92B-44 Black
+HL Road Frame - Black, 48 FR-R92B-48 Black
+HL Road Frame - Black, 52 FR-R92B-52 Black
+HL Road Frame - Black, 58 FR-R92B-58 Black
+HL Road Frame - Black, 62 FR-R92B-62 Black
+HL Road Frame - Red, 44 FR-R92R-44 Red
 
 (20 rows affected)

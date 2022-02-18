@@ -8,6 +8,5 @@ Ms. Rose Vandenouer
 Ms. Esther Valle
 Ms. Phyllis Tuffield
 Ms. Christie Trujillo
-Ms. Kara Vanderlinden
 
 (10 rows affected)
